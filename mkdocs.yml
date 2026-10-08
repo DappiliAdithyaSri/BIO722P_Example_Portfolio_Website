@@ -1,0 +1,40 @@
+site_name: Personal Portfolio
+
+theme:
+  name: material
+  language: en
+  features:
+    - content.tooltips
+    - navigation.instant
+    - navigation.tabs
+    - toc.integrate
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - abbr
+  - pymdownx.keys
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true 
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: 
+    - index.md
+
+  - Experience:
+    -  Unix & Genomics: experience/Unix_and_Genomics.md
