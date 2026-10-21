@@ -1,22 +1,21 @@
-# My Personal Portfolio Website 
+# Adithya Sri Dappili
 
--------
+![Portrait](./img/Placeholder.png)
 
-![Placeholder portrait](./img/Placeholder.png)
+I am an MSc Artificial Intelligence in the Biosciences student at Queen Mary University of London with a background in Biomedical Engineering. My interests include machine learning, bioinformatics, computational biology, medical imaging, and biomedical signal processing.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+I have experience developing deep learning and machine learning solutions for healthcare applications, including Parkinson's disease detection from vocal biomarkers, medical image analysis, and biosensor-based diagnostics. GitHub](https://github.com/adithyadappili) · [LinkedIn](https://linkedin.com/in/adithya-sri-dappili)
 
+## Experience
 
-## Experience 
-
-| Role | Organisation | Dates | Example contribution |
+| Role | Organisation | Dates | Contribution |
 | --- | --- | --- | --- |
-| Summer Student | QMUL | Summer 2025 | Curated a small biological dataset and documented the workflow. |
-| Science Outreach Volunteer | QMUL | 2022–present | Developed activities introducing genetics to school students. |
+| Graduate Intern & Service Operations Specialist | BPL Medical Technologies | 2025–2026 | Evaluated electro-medical equipment, calibration workflows, and device compliance. |
+| Clinical Biomedical Engineering Intern | RIMS Hospital | 2023 | Assisted with maintenance, calibration, and safety audits of critical clinical equipment. |
 
-## Education 
+## Education
 
-| Degree | Institution | Dates | 
+| Degree | Institution | Dates |
 | --- | --- | --- |
-| MSc Bioinformatics  | QMUL | 2024–2025 |
-| BSc Biochemistry | University of York | 2020–2024 |
+| MSc Artificial Intelligence in the Biosciences | Queen Mary University of London | 2026–2027 |
+| B.Tech Biomedical Engineering | Vignan's Foundation for Science, Technology & Research | Graduated 2025 |
